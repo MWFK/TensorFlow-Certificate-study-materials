@@ -13,4 +13,4 @@ https://www.linkedin.com/in/laurence-moroney/
 ### Motivation for this repo
 I have kept some notebooks that I have studied in this specialization to refer back to them when needed. 
 
-![Coursera DeepLearning.AI Tensorflow](https://imgur.com/a/gO7kKgh)
+![Coursera DeepLearning.AI Tensorflow]([Imgur](https://i.imgur.com/rmThNgm.png))
