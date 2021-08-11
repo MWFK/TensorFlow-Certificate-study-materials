@@ -43,7 +43,7 @@ I have kept some notebooks that I have studied in this specialization to refer b
 ##### 05. Classifying_Emotion_with_CNN_&_Data_Augmentation.ipynb
 ##### 06. Cats_vs_Dogs_CNN_Data_Augmentation.ipynb1
 ##### 07. RPS_image_upload_verification.ipynb
-##### 08. Cats_vs_Dogs_Inception_V3.ipynb
+##### 08. TransferLearning_BIClass_InceptionV3.ipynb
 ##### 09. ObjectDetection_MobileNetV2_InceptionResNetV2.ipynb
 ##### 10. Apply_DNN_to_Sarcasm_dataset.ipynb
 ##### 11. CNN_LSTM_BLSTM_GRU_on_IMDB.ipynb
